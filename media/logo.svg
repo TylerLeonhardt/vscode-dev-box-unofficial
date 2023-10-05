@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <style>
+    .text {
+        font: bold 40px monospace;
+    }
+    </style>
+    <rect x="10" y="10" width="80" height="80" fill="#ffffff00" stroke="#000" stroke-width="6"/>
+    <text x="14" y="85" class="text">Dev</text>
+</svg>
